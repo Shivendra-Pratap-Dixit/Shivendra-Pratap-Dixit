@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Shivendra Pratap Dixit</h1> 
 <h3 align="center">__A passionate frontend developer from India__</h3>
-
+<a href="https://komarev.com/ghpvc/?username=Shivendra-Pratap-Dixit">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Shivendra-Pratap-Dixit&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 </br>
 
 ##  🙋‍♂️About me :
